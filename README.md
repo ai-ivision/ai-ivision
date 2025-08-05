@@ -118,11 +118,6 @@ Comprehensive data science project analyzing Solana blockchain ecosystem
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="AI Quote" />
 </div>
 
-## 📈 GitHub Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ai-ivision&theme=tokyo-night" alt="Contribution Graph" />
-</div>
-
 ---
 
 <div align="center">
