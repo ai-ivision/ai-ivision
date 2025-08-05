@@ -43,23 +43,6 @@
 - **📊 Time Series Forecasting**: LSTM, ARIMA, Prophet
 - **🔍 Recommendation Systems**: Collaborative Filtering, Content-Based
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ai-ivision&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-ivision&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-## 🏆 AI Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ai-ivision&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
-## 🔥 Contribution Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ai-ivision&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 🤖 Featured AI Projects
 
 ### 💰 [PersonalFinancePyTorchModel](https://github.com/ai-ivision/PersonalFinancePyTorchModel)
